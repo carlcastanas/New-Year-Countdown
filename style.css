@@ -59,6 +59,9 @@ canvas {
   display: flex;
   justify-content: center;
 }
+.a{
+  text-decoration: none;
+}
 
 .time span {
   padding: 0 14px;
