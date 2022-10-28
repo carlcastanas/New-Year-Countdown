@@ -59,7 +59,7 @@ canvas {
   display: flex;
   justify-content: center;
 }
-.a{
+.a:link {
   text-decoration: none;
 }
 
